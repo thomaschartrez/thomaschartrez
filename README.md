@@ -24,7 +24,7 @@
 
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/thomas-chartrez-7a903622b" target="_blank">
-    ![sasa]""www.linkedin.com/in/thomas-chartrez-7a903622b"
+    ![sasa]"www.linkedin.com/in/thomas-chartrez-7a903622b"
   </a>
 </div>
 
