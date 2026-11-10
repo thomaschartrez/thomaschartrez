@@ -24,7 +24,7 @@
 
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/thomas-chartrez-7a903622b" target="_blank">
-    ![lala]"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"
+    ![sasa]"https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
   </a>
 </div>
 
