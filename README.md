@@ -21,6 +21,6 @@
 <p data-importer="text" align="center">you can contact me on linkedin</p>
 
 ###
-![linkedin]www.linkedin.com/in/thomas-chartrez-7a903622b
+                                     ![linkedin][www.linkedin.com/in/thomas-chartrez-7a903622b]
 
 ###
