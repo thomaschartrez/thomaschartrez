@@ -18,9 +18,7 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.gifer.com/1FA.gif"  />
-</div>
+<p data-importer="text" align="center">you can contact me on linkedin</p>
 
 ###
 
