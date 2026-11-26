@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thomas 👋</h1>
-<p align="center">Student developer passionate about low-level programming, systems and C/C++.</p>
+<p align="center">Student developer passionate about low-level programming, systems and network</p>
 
 ### 🔭 Currently
 - Looking for **alternance **
@@ -27,6 +27,10 @@
 </div>
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-chartrez-7a903622b)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-chartrez-7a903622b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thomas.chartrez@coda-student.school)
 
